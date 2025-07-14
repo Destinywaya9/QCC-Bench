@@ -1,0 +1,6 @@
+APPENDIX A: NDA REQUIREMENT
+
+Access to any EchoP1 kernel-related content or simulation benchmarks in private repositories
+requires a signed Non-Disclosure Agreement (NDA). Unauthorized access, file sharing,
+or duplication constitutes a breach of the EchoP1 Integrity License and may be pursued
+as intellectual property theft under federal and international law.
