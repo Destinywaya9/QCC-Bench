@@ -1,14 +1,7 @@
-# EchoP1 Core Repository – PRIVATE ACCESS
+# EchoP1 Core Repository 
 
-This repository contains protected source materials and benchmark notebooks for EchoP1,
-a resonance-locked quantum coherence system. All content in this repository is governed
-by the EchoP1 Integrity License and may not be copied, exported, or modified in any form.
+This repository contains the Tensor P2 related to Destiny Machwaya's full research program.
 
-🚫 Public use is strictly prohibited.
+I, Destiny Machwaya, hereby give up my research, not due to any invalidations to date, but rather due to continued epistemic abuse, doxxing and other harms no longer acceptable. I publish my work publicly as open-source. 
 
-📝 Access Requirements:
-- Signed Non-Disclosure Agreement (NDA)
-- Explicit written permission from EchoP1 team
-- A valid use case related to licensing, integration, or formal review
-
-Contact: echoarc.research@proton.me
+Signed off. 
