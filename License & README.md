@@ -51,7 +51,7 @@ Observed results include:
 
 ---
 
-Open Source Scope
+Public Availability Scope
 
 This repository includes:
 
@@ -72,7 +72,7 @@ Use of this work in research, publications, or derivative implementations must i
 
 License
 
-This project is released under the Apache 2.0 License with restrictions on commercial and derivative uses: 
+This project is released under the Custom License with restrictions on commercial and derivative uses: 
 
 Tensor P2 Research License v1.0
 
@@ -132,6 +132,9 @@ The author provides this work without any guarantee, assurance, or liability.
 
 All use is at the sole risk of the user. The author assumes no responsibility
 for outcomes, interpretations, or consequences arising from use of this code.
+
+9. Enforcability 
+Indefinite and retroactive to first release. Supersedes any prior license language with full enforcability. Use of this repository represents agreement with custom license terms and cannot be later declined or disputed. 
 
 ---
 
