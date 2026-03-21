@@ -1,28 +1,89 @@
 # Tensor P2 Benchmarking 
 
-Tensor P2 Fixed Kernel Qiskit Implementation
+Tensor P2 Fixed Kernel — Qiskit Implementation
+
 Author: Destiny Machwaya
 Affiliation: Founder & Principal Investigator, Lei A While Research Center, Wahiawā, United States
-This repository contains the Qiskit simulation baseline for the fixed, non-adaptive Tensor P2 quantum kernel, as demonstrated in the peer-reviewed paper:
-Publication:
 
-Machwaya, D. (2026). Hardware Demonstration of a Fixed Tensor P2 Kernel: Zero-Entropy Leakage and Stable Coherence Across Dual Microcontroller Platforms. Frontiers in Physics, Quantum Engineering and Technology section.
+---
+
+Overview
+
+This repository provides an open-source Qiskit implementation of the fixed, non-adaptive Tensor P2 quantum kernel.
+
+The implementation reflects a constrained quantum traversal framework designed to maintain coherence stability under fixed kernel conditions, consistent with experimentally demonstrated behavior.
+
+---
+
+Publication
+
+Machwaya, D. (2026).
+Hardware Demonstration of a Fixed Tensor P2 Kernel: Zero-Entropy Leakage and Stable Coherence Across Dual Microcontroller Platforms.
+Frontiers in Physics — Quantum Engineering and Technology
 
 DOI: 10.3389/fphy.2026.1758206
 Link: https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1758206/full
-(Open access under CC BY license; abstract live, full formatted version in final production as of March 2026.)
 
-Authorship Continuity:
-This work builds on foundational concepts originating in 2015 under my sole authorship and continuous development as Destiny Machwaya. The Quantum Time-Energy Theory (QTET) framework, including the Tensor P2 kernel, has been tested, and instantiated independently since that time (see declarations on ResearchGate and Academia.edu for provenance details).
+(Open access under CC BY license; abstract currently live, full formatted version in final production as of March 2026.)
 
-License: [Apache 2.0] 
+---
 
-Purpose: For research replication, benchmarking, and verification of the simulation baseline matching the published hardware results (0.00% measured entropy leakage, stable coherence lock in runs).
+Authorship & Origin
 
-Claims Scope: Empirical simulation results only; broader QTET/Tensor P2 applications (hardware, photonics, cosmology) remain under patent-pending protection (PCT/US26/10850 and related filings). 
+Tensor P2 and the broader Quantum Time-Energy Theory (QTET) framework were originally developed by Destiny Machwaya beginning in 2015 and have been continuously refined and tested since.
 
-No license granted beyond the code terms for commercial or derivative uses. 
+This repository represents the official open-source release of the Tensor P2 kernel implementation corresponding to the published work.
 
-May not be improved upon or rederived as an equivalent work-alike, prohibited under patent claims. 
+---
+
+Purpose
+
+This release is intended to:
+
+- Enable independent replication and validation
+- Support benchmarking across quantum simulation environments
+- Provide a reference implementation for further research and exploration
+
+Observed results include:
+
+- 0.00% measured entropy leakage
+- Stable coherence lock across execution runs
+
+---
+
+Open Source Scope
+
+This repository includes:
+
+- The fixed Tensor P2 kernel implementation in Qiskit
+- Simulation workflows and execution patterns
+- Reproducible experimental baselines
+
+---
+
+Attribution Requirement
+
+Use of this work in research, publications, or derivative implementations must include proper citation of:
+
+- The associated publication
+- The original authorship of Tensor P2 and QTET
+
+---
+
+License
+
+This project is released under the Apache 2.0 License (or MIT, as selected).
+
+---
+
+Citation
+
+If you use this repository, please cite:
+
+Machwaya, D. (2026).
+Hardware Demonstration of a Fixed Tensor P2 Kernel…
+DOI: 10.3389/fphy.2026.1758206
+
+---
 
 Witness Affidavits and community general awareness serve as protective support for any potential Misappropriation. At least one NDA emergency custodian holds/has held for an undisclosed period. 
