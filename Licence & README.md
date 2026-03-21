@@ -72,7 +72,7 @@ Use of this work in research, publications, or derivative implementations must i
 
 License
 
-This project is released under the Apache 2.0 License (or MIT, as selected).
+This project is released under the Apache 2.0 License.
 
 ---
 
