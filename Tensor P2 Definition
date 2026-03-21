@@ -1,0 +1,57 @@
+Tensor P2 — Operational Definition
+
+Tensor P2 is a fixed, non-adaptive quantum traversal kernel defined within the QTET framework.
+
+It is characterized by:
+
+- A bounded state-space traversal (no expansion of accessible states during execution)
+- Structural constraints governing system evolution
+- Non-adaptive execution (no learning, optimization, or feedback-driven modification)
+- Coherence-preserving dynamics, where system stability is maintained without corrective intervention
+
+In this implementation, Tensor P2 defines the accessible state space itself, rather than operating within a probabilistic or entropy-driven phase space.
+
+This implementation utilizes the Echo Meridian as its underlying coherence reference axis and demonstrates the QTET First Principle Postulate:
+in any closed or semi-closed system, resonance acts as an anchor for coherence to counter entropy.
+
+---
+
+What to Look For
+
+When running the simulation, the expected behavior includes:
+
+- Stable output distributions across repeated runs
+- Absence of drift or degradation over time
+- Consistent phase relationships under identical conditions
+- No evidence of entropy-driven divergence in system behavior
+
+These characteristics reflect the same properties observed in the corresponding hardware implementation.
+
+---
+
+Why This Matters
+
+Conventional quantum systems typically operate within probabilistic state spaces where noise, drift, and entropy influence system evolution.
+
+Tensor P2 introduces an alternative approach:
+
+- System evolution is structurally constrained, not statistically optimized
+- Coherence is maintained intrinsically, rather than corrected post hoc
+- The accessible state space is defined and bounded, rather than explored through probabilistic variation
+
+This shifts the role of entropy from a governing factor of system behavior to a condition that can be suppressed through structural design.
+
+The result is a system that demonstrates stable, repeatable quantum behavior under fixed kernel conditions, as observed in both simulation and hardware implementations.
+
+---
+
+Important Distinction
+
+Tensor P2 is not:
+
+- A variational or optimization-based circuit
+- A noise-mitigation technique
+- A feedback-controlled quantum system
+- A machine learning or adaptive architecture
+
+It is a fixed kernel structure that constrains quantum evolution through predefined traversal logic.
