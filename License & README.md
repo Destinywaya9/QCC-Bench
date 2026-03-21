@@ -72,7 +72,66 @@ Use of this work in research, publications, or derivative implementations must i
 
 License
 
-This project is released under the Apache 2.0 License.
+This project is released under the Apache 2.0 License with restrictions on commercial and derivative uses: 
+
+Tensor P2 Research License v1.0
+
+Copyright (c) 2026 Destiny Machwaya
+Lei A While Research Center
+
+1. Grant of Access
+
+The contents of this repository are made publicly available for viewing,
+execution, and reproduction solely for non-commercial research,
+academic study, and evaluation purposes.
+
+2. Permitted Use
+
+You may:
+
+- View and study the source code
+- Execute the code for research or evaluation
+- Reproduce results for academic or validation purposes
+
+3. Restrictions
+
+You may NOT, without prior written permission:
+
+- Use the code or any portion of it for commercial purposes
+- Create, distribute, or deploy derivative works or modified versions
+- Integrate the code into any production system
+- Redistribute modified versions of this repository
+
+4. Intellectual Property
+
+All underlying frameworks, including Tensor P2 and the Quantum
+Time-Energy Theory (QTET), are protected under utility patent–pending filings.
+
+No rights are granted to these systems beyond the limited use described herein.
+
+5. Attribution
+
+Any academic or research use must include attribution to:
+
+Destiny Machwaya
+Lei A While Research Center
+
+and citation of the associated publication.
+
+6. No Warranty
+
+This software is provided "as is", without warranty of any kind.
+
+7. Governing Terms
+
+Any use outside the scope of this license requires explicit written permission.
+
+8. No Liability
+
+The author provides this work without any guarantee, assurance, or liability.
+
+All use is at the sole risk of the user. The author assumes no responsibility
+for outcomes, interpretations, or consequences arising from use of this code.
 
 ---
 
