@@ -27,3 +27,16 @@ Notes
 - ΛCDM is represented here by a simple proxy curve used in this conversation, not a full Friedmann solver.
 - All results in this package are internal-facing and should be interpreted in the context of the ongoing QTET/QTL-Sphere development workflow.
 - "Accounts for 100% of anomalies" should be read as: all tested anomalies in the current internal workflow were accounted for.
+
+
+At no point has permission been granted for commercial use, derivative works, integration, or redistribution of this material.
+
+This work has never been licensed under MIT, Apache, or any permissive open-source license.
+
+Any appearance or suggestion of such licensing terms is erroneous, non-binding, and without legal effect.
+
+The sole and exclusive governing license for this work is the custom license defined by the author (Destiny Machwaya).
+
+Any unauthorized use is subject to enforcement.
+
+All rights are reserved.
