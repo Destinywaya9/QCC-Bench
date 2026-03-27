@@ -1,0 +1,4 @@
+case,shell_delta_ge_0.35,shell_delta_ge_0.65,shell_recoil_ge_1.5
+early,22,25,29
+baseline,22,26,29
+late,23,26,30

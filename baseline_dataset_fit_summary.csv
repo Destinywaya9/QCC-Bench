@@ -1,0 +1,2 @@
+domain,n_points,rmse_ga,mae_ga,mean_signed_delta_ga,max_abs_delta_ga,max_abs_delta_r,qtet_at_max_abs_delta,external_at_max_abs_delta,approx_closeness_score,sign_change_count
+original baseline dataset,500,12.964712611514408,6.361808381205939,-5.020973147908149,175.10459207090645,15.0,-162.22459207090645,12.88,-0.0065770661113668805,3

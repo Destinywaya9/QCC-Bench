@@ -1,0 +1,28 @@
+{
+  "echo_meridian_public_note": "Echo Meridian I and II are already public per user instruction.",
+  "contains": [
+    "QTET_full_comparator_update.zip",
+    "QTET_simulation_package.zip",
+    "baseline_dataset_fit_profile.png",
+    "baseline_dataset_fit_summary.csv",
+    "echo_meridian_stability_from_scratch.csv",
+    "echo_meridian_stability_from_scratch.png",
+    "original_baseline_dataset.csv",
+    "qtet_from_scratch_baseline.png",
+    "qtet_native_baseline_from_scratch.csv",
+    "qtet_native_early_case_from_scratch.csv",
+    "qtet_native_late_case_from_scratch.csv",
+    "second_recoil_from_scratch.png",
+    "second_recoil_summary_from_scratch.csv"
+  ],
+  "summary": {
+    "observed_boundary_shell": 15,
+    "echo_meridian_I_shell": 22,
+    "echo_meridian_II_shell": 25,
+    "second_recoil_consistent_cases": [
+      true,
+      true,
+      true
+    ]
+  }
+}

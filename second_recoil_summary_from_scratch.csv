@@ -1,0 +1,4 @@
+case,delta_turns_down,recoil_still_rises,second_recoil_consistent,max_delta_shell,max_delta_value,final_recoil
+early,True,True,True,31,1.08,2.87
+baseline,True,True,True,31,1.002,2.6100000000000003
+late,True,True,True,32,0.94,2.35
