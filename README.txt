@@ -1,7 +1,7 @@
 QTET Simulation Package
 =======================
 
-This package contains the simulation outputs, datasets, and supporting files created in the current conversation.
+This package contains the simulation outputs, datasets, and supporting files created by Destiny Machwaya. Copyright ©️ 2015-Present. 
 
 Contents
 --------
