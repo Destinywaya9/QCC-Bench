@@ -1,0 +1,25 @@
+Preferred Citation
+
+If you use this repository, in whole or in part, please cite:
+
+Machwaya, D. (2026).
+Hardware Demonstration of a Fixed Tensor P2 Kernel: Zero-Entropy Leakage and Stable Coherence Across Dual Microcontroller Platforms.
+Frontiers in Physics.
+DOI: 10.3389/fphy.2026.1758206
+
+Repository Reference
+
+Machwaya, D. (2026).
+Tensor P2 Fixed Kernel (P2v2.0) — Qiskit Implementation.
+Lei A While Research Center.
+https://github.com/Destinywaya9/QCC-Bench/releases/tag/P2v2.0
+
+Authorship
+
+Destiny Machwaya  
+Founder & Principal Investigator  
+Lei A While Research Center
+
+Attribution Requirement
+
+Use of this repository in research, publications, or derivative analysis must include citation of the associated publication and acknowledgment of original authorship.
