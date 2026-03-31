@@ -70,4 +70,7 @@ The sole and exclusive governing license for this work is the custom license def
 
 Any unauthorized use is subject to enforcement.
 
+Website: 
+https://lawresearchcenter.org
+
 All rights are reserved.
