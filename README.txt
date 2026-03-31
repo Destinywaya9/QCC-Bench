@@ -58,6 +58,14 @@ This work has never been licensed under MIT, Apache, or any permissive open-sour
 
 Any appearance or suggestion of such licensing terms is erroneous, non-binding, and without legal effect.
 
+Related Work
+
+A comprehensive monograph titled:
+
+“Quantum Time-Energy Theory: A First-Principles Monograph on Coherence, Temporal Ordering, and Cosmological Structure”
+
+has been submitted and is currently under editorial review. This monograph presents the broader theoretical framework underlying the Tensor P2 implementation and associated experimental work.
+
 The sole and exclusive governing license for this work is the custom license defined by the author (Destiny Machwaya).
 
 Any unauthorized use is subject to enforcement.
