@@ -101,6 +101,7 @@ You may NOT, without prior written permission:
 - Create, distribute, or deploy derivative works or modified versions
 - Integrate the code into any production system
 - Redistribute modified versions of this repository
+- Implement in Hardware or other systems, use is restricted to scientific and research Benchmarking 
 
 4. Intellectual Property
 
