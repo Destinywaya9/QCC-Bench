@@ -7,6 +7,8 @@ Hardware Demonstration of a Fixed Tensor P2 Kernel: Zero-Entropy Leakage and Sta
 Frontiers in Physics.
 DOI: 10.3389/fphy.2026.1758206
 
+This Github Release is included as a Supplemental Release within the published manuscript. 
+
 The materials directly supporting the published work include:
 - The fixed Tensor P2 kernel implementation
 - Associated simulation workflows
