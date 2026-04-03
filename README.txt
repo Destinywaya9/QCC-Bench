@@ -1,3 +1,21 @@
+⚠️ RESTRICTED RESEARCH LICENSE — HARDWARE USE PROHIBITED
+
+This repository is NOT open-source for commercial, derivative, or applied use.
+
+Permitted use is strictly limited to:
+- Non-commercial research
+- Academic benchmarking
+- Software-based simulation only
+
+STRICTLY PROHIBITED:
+- Any hardware implementation
+- Any commercial use
+- Any system integration or deployment
+
+Violation constitutes unauthorized use and may be subject to enforcement.
+
+See LICENSE for full terms.
+
 Scope of Release
 
 This repository contains the Tensor P2 (P2v2.0) Qiskit implementation corresponding to the publication:
