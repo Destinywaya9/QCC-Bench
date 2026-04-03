@@ -263,11 +263,19 @@ Indefinite and retroactive to first release.
 
 Supersedes any prior license language with full enforcability. 
 
-Use of this repository represents agreement with custom license terms and cannot be later declined or disputed. 
+13. Versioning and Updates
 
-It falls on the individual to ensure compliance with all license terms and updates as they may evolve. 
+This license governs all access to and use of this repository and its contents from the date of first public release.
 
-Failure to take notice of license terms updates does not invalidate new terms as any use assumes agreement with prior and future license terms and understanding of personal liability for misuse. 
+Continued access to, or use of, this repository or any materials contained herein constitutes acceptance of the current version of this license.
+
+Updated versions of this license apply prospectively to all subsequent access and use.
+
+Users are solely responsible for reviewing the current license terms prior to any access or use.
+
+Any use of this repository or its contents in violation of the current license terms is unauthorized.
+
+If a user does not agree to the current license terms, they must immediately cease all access and use of the repository and its contents.
 
 ---
 
