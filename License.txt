@@ -70,72 +70,204 @@ Use of this work in research, publications, or derivative implementations must i
 
 ---
 
-License
-
-This project is released under the Custom License with restrictions on commercial and derivative uses: 
-
-Tensor P2 Research License v1.0
-
-Copyright (c) 2026 Destiny Machwaya
+Copyright (c) 2015-2026 Destiny Machwaya
 Lei A While Research Center
+All Rights Reserved
 
-1. Grant of Access
+1. Scope and Ownership
 
-The contents of this repository are made publicly available for viewing,
-execution, and reproduction solely for non-commercial research,
-academic study, and evaluation purposes.
+This repository and all associated materials, including but not limited to:
 
-2. Permitted Use
+Tensor P2 kernel implementation
 
-You may:
+Quantum Time-Energy Theory (QTET) framework
 
-- View and study the source code
-- Execute the code for research or evaluation
-- Reproduce results for academic or validation purposes
+Echo Meridian construct
 
-3. Restrictions
+QTL-Sphere structure
 
-You may NOT, without prior written permission:
+Associated documentation and simulation workflows are the exclusive intellectual property of Destiny Machwaya and are protected under active utility patent–pending filings.
 
-- Use the code or any portion of it for commercial purposes
-- Create, distribute, or deploy derivative works or modified versions
-- Integrate the code into any production system
-- Redistribute modified versions of this repository
-- Implement in Hardware or other systems, use is restricted to scientific and research Benchmarking 
+No rights are granted except as explicitly stated in this license.
 
-4. Intellectual Property
+2. Permitted Use (Strictly Limited License)
 
-All underlying frameworks, including Tensor P2 and the Quantum
-Time-Energy Theory (QTET), are protected under utility patent–pending filings.
+You are granted a non-exclusive, non-transferable, revocable license to:
 
-No rights are granted to these systems beyond the limited use described herein.
+View and study the source code
 
-5. Attribution
+Execute the code only within software-based simulation environments
 
-Any academic or research use must include attribution to:
+Reproduce results for non-commercial scientific research and academic validation only
+
+3. Modification and Internal Benchmarking
+
+Modification of the code is permitted only under the following conditions:
+
+Modifications must be strictly for internal, non-commercial research or benchmarking and modifications must be clearly presented up-front
+
+Modified versions may not be distributed, published, or shared externally
+
+Modified implementations must not be presented as independent systems
+
+All modifications remain derivative of the original work and are fully subject to this license.
+
+4. Explicit Restrictions
+
+Without prior written permission from the author, you may NOT:
+
+4.1 Commercial Use
+
+Use any portion of this work for commercial purposes
+
+Use in startups, products, services, or monetized research
+
+4.2 Distribution
+
+Redistribute the repository in whole or in part
+
+
+Share modified or unmodified versions publicly or privately
+
+4.3 Derivative Deployment
+Deploy modified or extended versions in:
+
+production systems
+
+applied technologies
+
+external demonstrations
+
+4.4 Integration
+Integrate into:
+
+proprietary systems
+
+open-source projects
+
+hybrid research/commercial pipelines
+
+4.5 Hardware Implementation (STRICT PROHIBITION)
+
+Implementation of this work, in whole or in part, in any hardware system is strictly prohibited.
+
+This includes, but is not limited to:
+
+Physical devices
+
+Embedded systems
+
+FPGA or ASIC implementations
+
+Microcontroller-based systems
+
+Quantum computing hardware
+
+Hybrid software–hardware systems
+You may NOT:
+
+Execute the code on hardware
+
+Port the logic to hardware
+
+Benchmark using hardware
+
+Simulate hardware-bound execution environments intended for deployment
+
+No hardware-based execution, replication, testing, or benchmarking is permitted under any circumstances.
+
+Any hardware-related use requires explicit prior written authorization under a separate licensing agreement.
+
+5. No Implied Rights
+
+Nothing in this license grants:
+
+Rights to QTET, Tensor P2, Tensor P3, or related frameworks
+
+Rights to underlying theory, architecture, or derived systems
+
+Rights to patent-pending technologies
+
+All such rights are expressly reserved.
+
+6. Attribution Requirement
+Any permitted academic or research use must include:
+
+Citation of the associated publication
+Attribution to:
 
 Destiny Machwaya
 Lei A While Research Center
 
-and citation of the associated publication.
+7. Patent Notice
 
-6. No Warranty
+This work is covered under active utility patent–pending filings.
 
-This software is provided "as is", without warranty of any kind.
+Unauthorized use beyond this license may constitute:
 
-7. Governing Terms
+Patent infringement
 
-Any use outside the scope of this license requires explicit written permission.
+Copyright infringement
 
-8. No Liability
+Misappropriation of protected intellectual property
 
-The author provides this work without any guarantee, assurance, or liability.
+8. Enforcement and Violations
 
-All use is at the sole risk of the user. The author assumes no responsibility
+Unauthorized use includes (but is not limited to):
+
+Commercial exploitation
+Redistribution
+
+Derivative system deployment
+
+Hardware implementation of any kind
+
+Misrepresentation of authorship
+
+Violations may result in:
+
+Immediate revocation of license
+
+DMCA takedown actions
+
+Formal legal enforcement
+
+9. License Term and Acceptance
+
+This license applies to all versions of this repository from the date of first public release.
+
+Use of this repository constitutes acceptance of these terms.
+
+10. No Warranty
+
+This software is provided “as is”, without warranty of any kind.
+
+11. Limitation of Liability
+
+The author assumes no liability for any use, misuse, or outcomes derived from this work.
+
+12. Contact for Licensing
+
+For commercial, applied, or hardware-related licensing inquiries:
+
+📧 echoarc.research@proton.me
+
+All use is at the sole risk of the user. 
+
+The author assumes no responsibility
 for outcomes, interpretations, or consequences arising from use of this code.
 
-9. Enforcability 
-Indefinite and retroactive to first release. Supersedes any prior license language with full enforcability. Use of this repository represents agreement with custom license terms and cannot be later declined or disputed. 
+Enforcability 
+
+Indefinite and retroactive to first release. 
+
+Supersedes any prior license language with full enforcability. 
+
+Use of this repository represents agreement with custom license terms and cannot be later declined or disputed. 
+
+It falls on the individual to ensure compliance with all license terms and updates as they may evolve. 
+
+Failure to take notice of license terms updates does not invalidate new terms as any use assumes agreement with prior and future license terms and understanding of personal liability for misuse. 
 
 ---
 
