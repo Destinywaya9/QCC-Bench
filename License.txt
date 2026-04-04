@@ -263,6 +263,21 @@ Indefinite and retroactive to first release.
 
 Supersedes any prior license language with full enforcability. 
 
+Prior Access and Continued Use
+Access to this release or its materials at any time prior to the current version of these Terms does not exempt any user from the conditions stated herein.
+
+All prior and current users are hereby placed on notice that:
+
+continued access, use, or reference to this repository or its materials constitutes affirmation and acceptance of these Terms 
+
+any ongoing use, retention, or engagement with materials following publication of these Terms is governed by them in full
+
+Users who do not agree must:
+
+discontinue use
+
+and cease engagement with all materials obtained from this site including, but not limited to; any derivative, reverse-engineered, or workalike implementations
+
 13. Versioning and Updates
 
 This license governs all access to and use of this repository and its contents from the date of first public release.
