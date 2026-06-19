@@ -84,7 +84,7 @@ A comprehensive monograph titled:
 
 “Quantum Time-Energy Theory: A First-Principles Monograph on Coherence, Temporal Ordering, and Cosmological Structure”
 
-has been submitted and is currently under editorial review. This monograph presents the broader theoretical framework underlying the Tensor P2 implementation and associated experimental work.
+Machwaya, D. (2026). Quantum Time-Energy Theory: A First-Principles Monograph on Coherence, Temporal Ordering, and Cosmological Structure. Complete Integrated Publication Release. Lei A While Research Center. ISBN: 979-8-234-10862 DOI: 10.67272/qtet-monograph-2026
 
 The sole and exclusive governing license for this work is the custom license defined by the author (Destiny Machwaya).
 
